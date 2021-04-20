@@ -59,8 +59,8 @@
             "translationNotAvailable" : "Malheureusement, il n'y a pas de traduction disponible pour cette page.",
             "translationIncomplete" : "La Traduction de cette page est incomplète.",
 	    "item-noun" : {
-                "singular" : "item",
-                "plural" : "items"
+                "singular" : "cosmétique",
+                "plural" : "cosmétiques"
 	    },
 	    "result-noun" : {
                 "format" : "[number] [noun]",
